@@ -1,5 +1,5 @@
 # Blogy - *GMR's Tech Blog*
-:link: [Live Running of this App](http://gmr.pythonanywhere.com/)
+:link: [Live Running App Link](http://gmr.pythonanywhere.com/)
 
 ### Technologies Used In This Application :
 
