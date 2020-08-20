@@ -11,7 +11,7 @@
 ### Features of this Application :
 
 *User can*
-1) **Create Post**
-2) **Edit Post**
-3) **Delete Post**
+1) **Create a Post**
+2) **Edit a Post**
+3) **Delete a Post**
 4) **Read all the Posts**
