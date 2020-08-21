@@ -5,9 +5,10 @@
 
 1) *Python's Web Framework* - **Flask**
 2) *Python SQL toolkit and Object Relational Mapper* - **SQLAlchemy**
-3) *Storage of Database* - **SQLite** 
-4) *Rendering Templates* - **HTML5**
-5) *Styling the Webpage* - **CSS3**
+3) *Web Template Engine for Python* - **Jinja 2**
+4) *Storage of Database* - **SQLite** 
+5) *Rendering Templates* - **HTML5**
+6) *Styling the Webpage* - **CSS3**
 
 ### Features of this Application :
 
